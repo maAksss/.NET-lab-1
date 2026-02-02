@@ -1,0 +1,14 @@
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\obj\Debug\net8.0\lab1_.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\obj\Debug\net8.0\lab1_.NET.AssemblyInfoInputs.cache
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\obj\Debug\net8.0\lab1_.NET.AssemblyInfo.cs
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\obj\Debug\net8.0\lab1_.NET.csproj.CoreCompileInputs.cache
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\bin\Debug\net8.0\lab1_.NET.exe
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\bin\Debug\net8.0\lab1_.NET.deps.json
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\bin\Debug\net8.0\lab1_.NET.runtimeconfig.json
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\bin\Debug\net8.0\lab1_.NET.dll
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\bin\Debug\net8.0\lab1_.NET.pdb
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\obj\Debug\net8.0\lab1_.NET.dll
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\obj\Debug\net8.0\refint\lab1_.NET.dll
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\obj\Debug\net8.0\lab1_.NET.pdb
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\obj\Debug\net8.0\lab1_.NET.genruntimeconfig.cache
+C:\Users\max20\OneDrive\Рабочий стол\лаби\3 КУРС\2 Семестр\.NET\lab 1\lab1_.NET\lab1_.NET\obj\Debug\net8.0\ref\lab1_.NET.dll
